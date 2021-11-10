@@ -1,0 +1,26 @@
+.container{
+text-align: center;
+}
+
+#calculator{
+    display: inline-block;
+    
+    padding: 10px;
+    align-items: center;
+
+    border:2px solid black;
+    border: 2pxsolid black;
+    background-color: black;
+    opacity: 0.8;
+}
+
+input{
+    width: 166px;
+        height: 25px;
+        border-radius: 10px;
+}
+
+button{
+    font-size: 20px;
+    width: 40px;
+}
